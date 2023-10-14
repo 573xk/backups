@@ -14,6 +14,5 @@
 { "url": "http://52bsj.vip:98/wuai", "name": "吾爱"},
 { "url": "http://8.210.232.168/xc.json", "name": "星辰"},
 { "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8", "name": "分享者"},
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "佰欣园"},
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json", "name": "kvymin"}
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "佰欣园"}
 ]}
